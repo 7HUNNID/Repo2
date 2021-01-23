@@ -1,0 +1,1 @@
+das ist meine zweite Repo, die ich über mein bash terminal in vsc erstellt habe.
